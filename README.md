@@ -1,5 +1,6 @@
 # Flask-Postgres-SQL-
 This is related to ocr project that will read the pdf and output the json format related to finance.
+# Project setup
 1st python install.
 2nd pip install -r requirements.txt.
 3rd flask db upgrade.
